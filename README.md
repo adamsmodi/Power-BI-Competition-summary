@@ -2,7 +2,7 @@
 In this repo, we summarize the interesting UI design, clever analytical view and interesting interaction for Power BI
 
 # Content
-[1. UI Design & Interaction](##1. UI Design & Interaction)
+[1. UI Design & Interaction](## 1. UI Design & Interaction)
 2. Color mapping
 3. Interesting analytical view
 4. New Power BI visual
