@@ -3,7 +3,8 @@ In this repo, we summarize the interesting UI design, clever analytical view and
 
 # Content
 [1. UI Design & Interaction](#1ui-design--interaction)
-2. Color mapping
+
+[2. Color mapping]((#1ui-design--interaction))
 3. Interesting analytical view
 4. New Power BI visual
 5. Technical highlights
